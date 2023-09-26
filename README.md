@@ -1,4 +1,4 @@
-# API - Cadastro de gols do Brasileirão - Lucas Loureiro
+# API - Cadastro de Docs em Moeda Estrangeira - Lucas Loureiro
 
 Este pequeno projeto faz parte do MVP da PUC, sprint **Arquitetura de Software** 
 
